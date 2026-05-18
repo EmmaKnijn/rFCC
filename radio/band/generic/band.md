@@ -1,0 +1,2 @@
+# Generic
+**usecase**: Allocations that dont fit the other bands. Please group uses together by 50, in case we decide to divide this up further into specific bands. For example: Keep similar things between 3100 and 3150.
