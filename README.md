@@ -69,7 +69,7 @@ The following minor bands are defined.
 - ` 2.13 : 7168  - 7423 `
 - ` 2.14 : 7424  - 7679 `
 - ` 2.15 : 7680  - 7935 `
-- ` 2.16 : 7936  - 8191 ` - Relay
+- ` 2.16 : 7936  - 8191 ` - Generic use (can be specified to Relay)
 - ` 3.1  : 8192  - 8447 `
 - ` 3.2  : 8448  - 8703 `
 - ` 3.3  : 8704  - 8959 `
